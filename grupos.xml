@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lista-grupos>
+	<grupo>
+		<id>001</id>
+		<nombre>Informática</nombre>
+		<responsable>Juan Rube</responsable>
+	</grupo>
+	<grupo>
+		<id>002</id>
+		<nombre>Administración</nombre>
+		<responsable>Carlos Garrido</responsable>
+	</grupo>
+	<grupo>
+		<id>003</id>
+		<nombre>Marketing</nombre>
+		<responsable>Rafael Trave</responsable>
+	</grupo>
+</lista-grupos>

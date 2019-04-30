@@ -5,17 +5,20 @@
 		<apellidos>Rube</apellidos>
 		<nacimiento>11/01/1980</nacimiento>
 		<email>juan.m.rube@gmail.com</email>
+		<grupo>001</grupo>
 	</usuario>
 	<usuario>
 		<nombre>Carlos</nombre>
 		<apellidos>Garrido</apellidos>
 		<nacimiento>25/05/1981</nacimiento>
 		<email>carlos.garrrido@gmail.com</email>
+		<grupo>002</grupo>
 	</usuario>
 	<usuario>
 		<nombre>Rafael</nombre>
 		<apellidos>Trave</apellidos>
 		<nacimiento>06/09/1978</nacimiento>
 		<email>rafael.trave@gmail.com</email>
+		<grupo>003</grupo>
 	</usuario>
 </lista-usuarios>
