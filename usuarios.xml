@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lista-usuarios>
+	<usuario>
+		<nombre>Juan</nombre>
+		<apellidos>Rube</apellidos>
+		<nacimiento>11/01/1980</nacimiento>
+		<email>juan.m.rube@gmail.com</email>
+	</usuario>
+	<usuario>
+		<nombre>Carlos</nombre>
+		<apellidos>Garrido</apellidos>
+		<nacimiento>25/05/1981</nacimiento>
+		<email>carlos.garrrido@gmail.com</email>
+	</usuario>
+	<usuario>
+		<nombre>Rafael</nombre>
+		<apellidos>Trave</apellidos>
+		<nacimiento>06/09/1978</nacimiento>
+		<email>rafael.trave@gmail.com</email>
+	</usuario>
+</lista-usuarios>
